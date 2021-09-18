@@ -32,3 +32,9 @@ Here are some ideas to get you started:
 ##### GitHub Streak
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=domix&theme=city-lights)](https://git.io/streak-stats)
+
+
+##### Coding stats
+
+.. image:: https://wakatime.com/share/@domix/e11a5bb2-8bfa-4871-8e75-a969bff176c9.png
+    :target: https://wakatime.com/
