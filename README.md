@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 
-#### I'm a Software Developer working in CDMX, Mexico.
+#### I'm a Software Developer working from CDMX, Mexico.
 
 ##### BIO
 
