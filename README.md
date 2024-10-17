@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ##### BIO
 
 - 🏢 I'm currently working at **a crypto company**
-- ⚙️ I use daily: `.java` and `.groovy` mainly.
+- ⚙️ I use daily: `.py`, `.java` and `.groovy` mainly.
 - 🌍 I'm mostly active within the **Java Community**
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **java**, **Spring**, **Micronaut**, **Groovy**
