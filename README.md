@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ##### GitHub Streak
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=domix&theme=city-lights)](https://git.io/streak-stats)
+[![GitHub Streak]([https://github-readme-streak-stats.herokuapp.com](https://streak-stats.demolab.com)?user=domix&theme=city-lights)](https://git.io/streak-stats)
 
 
 ##### Coding stats
