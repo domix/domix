@@ -18,16 +18,16 @@ Here are some ideas to get you started:
 -->
 
 
-#### I'm a Software Developer working from CDMX, Mexico.
+#### I'm a Software Developer working from Mexico City.
 
 ##### BIO
 
 - 🏢 I'm currently working at **a crypto company**
-- ⚙️ I use daily: `.py`, `.java` and `.groovy` mainly.
+- ⚙️ I use daily: `.py`, `.java`, and `.groovy` mainly.
 - 🌍 I'm mostly active within the **Java Community**
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **java**, **Spring**, **Micronaut**, **Groovy**
-- 📫 Reach me: [twitter.com/domix](https://twitter.com/domix)
+- 📫 Reach me: [x.com/domix](https://x.com/domix)
 
 ##### GitHub Streak
 
